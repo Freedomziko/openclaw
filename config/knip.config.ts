@@ -73,7 +73,7 @@ const rootBundledPluginRuntimeDependencies = [
   "clawpdf",
   "tokenjuice",
 ] as const;
-
+,
 const config = {
   ignoreFiles: [
     "scripts/**",
